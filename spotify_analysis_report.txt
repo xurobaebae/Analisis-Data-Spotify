@@ -1,0 +1,53 @@
+
+Spotify Data Analysis Report
+===========================
+
+1. Data Cleaning Steps
+----------------------
+Menghapus data yang memiliki nilai null di kolom penting seperti 'artist(s)_name' dan 'Spotify Streams'.
+Menghapus duplikasi berdasarkan 'track_name' dan 'artist(s)_name'.
+Menyesuaikan format kolom tanggal dan mengekstraksi tahun dari kolom 'release_date'.
+
+2. Analysis Steps
+-----------------
+Menghitung total streams untuk setiap artis berdasarkan tahun.
+Menghitung rata-rata popularitas untuk setiap lagu berdasarkan tahun.
+Membandingkan hasil analisis historis (2023 & 2024).
+
+3. Analysis Results
+-------------------
+
+Year: 20232024
+Top 5 Artists:
+           artist(s)_name  Spotify Streams
+           Olivia Rodrigo        998964097
+        Shakira, Bizarrap        946941510
+              Myke Towers        925655569
+            Billie Eilish        891720245
+James Blake, Metro Boomin         88524099
+
+Top 5 Songs:
+                                           track_name  Spotify Popularity
+                                           Like Crazy                  84
+What Was I Made For? [From The Motion Picture Barbie]                  82
+                                             AMARGURA                  81
+                                     Thinkin’ Bout Me                  80
+                                    Say Yes To Heaven                  80
+
+
+4. Conclusions
+--------------
+- Artis dengan streams tertinggi tetap mendominasi pada tahun 2023 hingga 2024.
+- Lagu dengan popularitas tinggi di masa lalu cenderung mempertahankan performa.
+- Data menunjukkan adanya tren positif terhadap artis-artis baru pada tahun 2024.
+
+5. Recommendations
+-------------------
+- Fokus pada artis dengan popularitas stabil untuk promosi jangka panjang.
+- Identifikasi tren lagu berdasarkan popularitas untuk mengoptimalkan strategi playlist.
+- Gunakan hasil ini untuk memperluas pasar di wilayah dengan engagement tinggi.
+
+6. Summary
+----------
+Hasil analisis menunjukkan bahwa artis dan lagu tertentu memiliki dampak besar di platform Spotify.
+Rekomendasi lebih lanjut dapat digunakan untuk strategi pemasaran berbasis data.
