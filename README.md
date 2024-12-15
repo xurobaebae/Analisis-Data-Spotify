@@ -1,9 +1,9 @@
 <p align="center">
-    <img src="https://github.com/xurobaebae/Analisis-Data-Spotify/dataset/spotify_logo.png" align="center" width="30%">
+    <img src="images/spotify_logo.png" align="center" width="30%">
 </p>
 <p align="center"><h1 align="center">ANALISIS-DATA-SPOTIFY</h1></p>
 <p align="center">
-	<em><code>❯ REPLACE-ME</code></em>
+	<em><code>-------------</code></em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/xurobaebae/Analisis-Data-Spotify?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
@@ -22,6 +22,7 @@
 # Analisis Data Spotify
 
 # Struktur Project
+```sh
 └── Analisis-Data-Spotify/
     ├── DataAnalyze.ipynb
     ├── README.md
@@ -32,6 +33,7 @@
     │   └── spotify_logo.png
     ├── p_values.csv
     └── spotify_analysis_report.txt
+```
 
 ## Deskripsi Proyek
 Proyek ini bertujuan untuk menganalisis data dari Spotify pada tahun 2023 dan 2024. Kami menggunakan berbagai teknik pemodelan dan analisis untuk memahami tren dan performa lagu di platform Spotify.
