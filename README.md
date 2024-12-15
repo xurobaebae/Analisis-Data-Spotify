@@ -705,4 +705,5 @@ print("Laporan telah dibuat: spotify_analysis_report.txt")
 
 # Credit
 Spotify 2024 dataset : [https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024]
+
 Spotify 2023 dataset : [https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023]
