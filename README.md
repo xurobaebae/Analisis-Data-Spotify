@@ -30,7 +30,11 @@
     ├── dataset
     │   ├── Most Streamed Spotify Songs 2023 data.csv
     │   ├── Most Streamed Spotify Songs 2024 data.csv
-    │   └── spotify_logo.png
+    │   
+    ├── images
+    │   ├── spotify_logo.png
+    │   
+    │   
     ├── p_values.csv
     └── spotify_analysis_report.txt
 ```
